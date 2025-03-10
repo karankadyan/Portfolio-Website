@@ -14,7 +14,7 @@ export const ContactSection = () => {
                         <div className="flex flex-col md:flex-row gap-8 md:gap-16 items-center w-3/2">
                             <div>
                                 <h2 className="font-serif text-2xl">
-                                    Let's Collaborate!
+                                    Let&apos;s Collaborate!
                                 </h2>
                                 <p className="text-sm mt-2 md:text-base">
                                     Have a job opportunity or an exciting project? Feel free to reach out via email, and let's discuss how we can work together.

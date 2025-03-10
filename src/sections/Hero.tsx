@@ -55,7 +55,7 @@ export const HeroSection = () => {
                     <a href="https://www.linkedin.com/in/karankadyan20/">
                     <button className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 px-6 h-12 rounded-xl ">
                         <span>🤝</span>
-                        <span className="font-semibold">Let's Connect</span>
+                        <span className="font-semibold">Let&apos;s Connect</span>
                     </button>
                     </a>
                 </div>
