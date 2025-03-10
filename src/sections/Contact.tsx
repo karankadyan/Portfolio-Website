@@ -17,7 +17,7 @@ export const ContactSection = () => {
                                     Let&apos;s Collaborate!
                                 </h2>
                                 <p className="text-sm mt-2 md:text-base">
-                                    Have a job opportunity or an exciting project? Feel free to reach out via email, and let's discuss how we can work together.
+                                    Have a job opportunity or an exciting project? Feel free to reach out via email, and let&apos;s discuss how we can work together.
                                 </p>
                             </div>
                             <a href="mailto:karankadyan20@gmail.com">
